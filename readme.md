@@ -1,4 +1,4 @@
-![Game Preview](Pictures\Screenshots.png)
+![Game Preview](C:\Project Preview\img1.png)
 How to compile and run your project
 
 This project is a 2D Tower Defense game developed in C++ using the SFML 2.6.2 library on Windows (64-bit).
