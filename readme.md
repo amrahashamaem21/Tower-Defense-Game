@@ -7,9 +7,13 @@ To compile and run the project:
 Install SFML 2.6.2 (64-bit) and set it up in your development environment (Visual Studio recommended).
 Link the required SFML modules in your project settings:
 sfml-graphics
+
 sfml-window
+
 sfml-system
+
 sfml-audio
+
 Ensure all asset folders (Sprites, Sounds, Fonts, image, etc.) are placed in the correct working directory (same level as the executable or configured project root).
 Build the project in Release or Debug mode.
 Run the executable generated after compilation.
@@ -35,10 +39,15 @@ In Visual Studio:
 Add include directory: SFML\include
 Add library directory: SFML\lib
 Link the required .lib files:
+
 sfml-graphics.lib
+
 sfml-window.lib
+
 sfml-system.lib
+
 sfml-audio.lib
+
 Copy required DLL files from SFML\bin into the executable folder.
 Set project architecture to x64.
 Project Overview
